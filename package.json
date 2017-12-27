@@ -98,10 +98,10 @@
     "grunt": "^1.0.1",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-copy": "^1.0.0",
-    "grunt-webpack": "^2.0.1",
+    "grunt-webpack": "^3.0.2",
     "load-grunt-parent-tasks": "^0.1.1",
     "load-grunt-tasks": "^3.5.2",
-    "webpack": "^2.2.1"
+    "webpack": "^3.10.0"
   },
   "deprecated": false,
   "description": "mxGraph is a fully client side JavaScript diagramming library that uses SVG and HTML for rendering.",
